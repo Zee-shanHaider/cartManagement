@@ -1,0 +1,17 @@
+.productDetail{
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.item-center{
+    margin: 10px auto;
+}
+
+.cart{
+    width: 80%;
+    margin: 10px auto;
+    border: 1px solid silver;
+}
